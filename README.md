@@ -1,4 +1,5 @@
-<h1><b>About me</b></h1>
+<h1><b>Hello World!</b></h1>
+<h2><b>About me</b></h2>
 <ul>
   <li>Highschool student.</li>
   <li>Loves CS.</li>
